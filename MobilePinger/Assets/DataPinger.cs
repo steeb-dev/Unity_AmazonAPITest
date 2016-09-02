@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class DataPinger : MonoBehaviour {
 
-    public string m_GetRequestURL = "https://ec2-54-206-73-97.ap-southeast-2.compute.amazonaws.com/MobileSubmit.php";
+    public string m_GetRequestURL = "https://ec2-54-206-12-233.ap-southeast-2.compute.amazonaws.com/MobileSubmit.php";
     public EventSystem m_EventSystem;
     public GameObject m_XYPad;
 
